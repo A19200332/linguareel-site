@@ -1,4 +1,4 @@
-# LinguaReel 閳?AI video translator
+# LinguaReel 闁?AI video translator
 
 > LinguaReel is an AI video translator that turns a video into another language. One upload produces translated SRT subtitles, a dubbed MP3 and a subtitled MP4 in 12+ languages, all rendered from the same transcript so the subtitle and the dub never disagree. Free 60-second trial with no sign-up; per-minute pricing quoted after upload and before payment.
 
@@ -24,6 +24,10 @@
 - [Translate English video to Portuguese](https://a19200332.github.io/linguareel-site/translate-video-to-portuguese.html)
 - [Translate English video to French](https://a19200332.github.io/linguareel-site/translate-video-to-french.html)
 - [Translate English video to Hindi](https://a19200332.github.io/linguareel-site/translate-video-to-hindi.html)
+- [Translate English video to German](https://a19200332.github.io/linguareel-site/translate-video-to-german.html)
+- [Translate English video to Italian](https://a19200332.github.io/linguareel-site/translate-video-to-italian.html)
+- [Translate English video to Korean](https://a19200332.github.io/linguareel-site/translate-video-to-korean.html)
+- [Translate English video to Turkish](https://a19200332.github.io/linguareel-site/translate-video-to-turkish.html)
 - [Translate English video to Japanese](https://a19200332.github.io/linguareel-site/translate-video-to-japanese.html)
 - [Add subtitles to a video automatically](https://a19200332.github.io/linguareel-site/add-subtitles-to-video.html)
 - [Video translator for YouTube](https://a19200332.github.io/linguareel-site/video-translator-for-youtube.html)
