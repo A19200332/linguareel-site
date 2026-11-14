@@ -17,9 +17,9 @@
 
 ## Pages
 
-- [Main page](https://a19200332.github.io/linguareel/)
-- [Translate a video to Spanish](https://a19200332.github.io/linguareel/translate-video-to-spanish.html)
-- [Translate a video to Arabic](https://a19200332.github.io/linguareel/translate-video-to-arabic.html)
+- [Main page](https://a19200332.github.io/linguareel-site/)
+- [Translate a video to Spanish](https://a19200332.github.io/linguareel-site/translate-video-to-spanish.html)
+- [Translate a video to Arabic](https://a19200332.github.io/linguareel-site/translate-video-to-arabic.html)
 - [Product site](https://linguareel.xyz)
 
 ## Common questions

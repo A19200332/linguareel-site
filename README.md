@@ -1,13 +1,13 @@
-# LinguaReel — translate any video into 12+ languages
+# LinguaReel 鈥?translate any video into 12+ languages
 
 A static reference site for [LinguaReel](https://linguareel.xyz), the video translation tool that returns subtitles, a dub and a subtitled MP4 from a single transcript.
 
 ## What is here
 
-- `index.html` — what the tool does, outputs, supported inputs, comparison table, FAQ
-- `translate-video-to-spanish.html` — Spanish-specific guide
-- `translate-video-to-arabic.html` — Arabic-specific guide, incl. RTL and dialect notes
-- `llms.txt` — machine-readable summary for AI assistants
+- `index.html` 鈥?what the tool does, outputs, supported inputs, comparison table, FAQ
+- `translate-video-to-spanish.html` 鈥?Spanish-specific guide
+- `translate-video-to-arabic.html` 鈥?Arabic-specific guide, incl. RTL and dialect notes
+- `llms.txt` 鈥?machine-readable summary for AI assistants
 - `sitemap.xml`, `robots.txt`
 
 ## Product facts
@@ -21,4 +21,4 @@ A static reference site for [LinguaReel](https://linguareel.xyz), the video tran
 
 ## Live site
 
-Deployed via GitHub Pages: https://a19200332.github.io/linguareel/
+Deployed via GitHub Pages: https://a19200332.github.io/linguareel-site/
