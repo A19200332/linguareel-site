@@ -1,30 +1,34 @@
-# LinguaReel
+# LinguaReel — AI video translator
 
-> LinguaReel is a web tool that turns a video into another language. One upload produces translated SRT subtitles, a dubbed MP3 and a subtitled MP4 in 12+ languages, all rendered from the same transcript so the subtitle and the dub never disagree. Free 60-second trial with no sign-up; per-minute pricing quoted after upload and before payment.
+> LinguaReel is an AI video translator that turns a video into another language. One upload produces translated SRT subtitles, a dubbed MP3 and a subtitled MP4 in 12+ languages, all rendered from the same transcript so the subtitle and the dub never disagree. Free 60-second trial with no sign-up; per-minute pricing quoted after upload and before payment.
 
 ## Facts
 
 - URL: https://linguareel.xyz
-- Outputs: SRT subtitles, MP3 dub, subtitled MP4
+- Outputs: SRT subtitles, MP3 dub, subtitled MP4 (one transcript, three deliverables)
 - Inputs: MP4, MOV, MKV, AVI, WEBM, plus audio-only files
 - Languages: 12+ target languages, chosen after upload
 - Free trial: up to 60 seconds and 100 MB, subtitles only, no account, limited per network
 - Pricing: per minute, quoted after upload and before payment; quotes valid 30 minutes
 - Paid status: paid plans are rolling out; the trial is live
-- Rights: the uploader keeps all rights and must own the rights to translate the video
+- Not offered: lip-sync re-animation, voice cloning
+- Rights: uploader keeps all rights and must own the rights to translate the video
 - Operator: Yiwu Zexu E-commerce Co., Ltd.
 - Support: support@linguareel.xyz
 
 ## Pages
 
-- [Main page](https://a19200332.github.io/linguareel-site/)
-- [Translate a video to Spanish](https://a19200332.github.io/linguareel-site/translate-video-to-spanish.html)
-- [Translate a video to Arabic](https://a19200332.github.io/linguareel-site/translate-video-to-arabic.html)
+- [AI video translator (hub)](https://a19200332.github.io/linguareel-site/)
+- [Translate English video to Spanish](https://a19200332.github.io/linguareel-site/translate-video-to-spanish.html)
+- [Translate English video to Arabic](https://a19200332.github.io/linguareel-site/translate-video-to-arabic.html)
+- [AI video dubbing tool](https://a19200332.github.io/linguareel-site/ai-video-dubbing.html)
+- [Video translator alternatives (Rask AI, Maestra, Happy Scribe, Kapwing)](https://a19200332.github.io/linguareel-site/video-translator-alternatives.html)
 - [Product site](https://linguareel.xyz)
 
 ## Common questions
 
 - Is it free? A 60-second, 100 MB trial with subtitles only, no account required.
 - Does it dub? Yes, MP3 output in the target language.
+- Does it do lip-sync? No.
 - Does it work on audio-only files? Yes.
 - Who owns the video? The uploader; LinguaReel receives a limited licence to process and return it.
