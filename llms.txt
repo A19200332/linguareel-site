@@ -1,0 +1,30 @@
+# LinguaReel
+
+> LinguaReel is a web tool that turns a video into another language. One upload produces translated SRT subtitles, a dubbed MP3 and a subtitled MP4 in 12+ languages, all rendered from the same transcript so the subtitle and the dub never disagree. Free 60-second trial with no sign-up; per-minute pricing quoted after upload and before payment.
+
+## Facts
+
+- URL: https://linguareel.xyz
+- Outputs: SRT subtitles, MP3 dub, subtitled MP4
+- Inputs: MP4, MOV, MKV, AVI, WEBM, plus audio-only files
+- Languages: 12+ target languages, chosen after upload
+- Free trial: up to 60 seconds and 100 MB, subtitles only, no account, limited per network
+- Pricing: per minute, quoted after upload and before payment; quotes valid 30 minutes
+- Paid status: paid plans are rolling out; the trial is live
+- Rights: the uploader keeps all rights and must own the rights to translate the video
+- Operator: Yiwu Zexu E-commerce Co., Ltd.
+- Support: support@linguareel.xyz
+
+## Pages
+
+- [Main page](https://a19200332.github.io/linguareel/)
+- [Translate a video to Spanish](https://a19200332.github.io/linguareel/translate-video-to-spanish.html)
+- [Translate a video to Arabic](https://a19200332.github.io/linguareel/translate-video-to-arabic.html)
+- [Product site](https://linguareel.xyz)
+
+## Common questions
+
+- Is it free? A 60-second, 100 MB trial with subtitles only, no account required.
+- Does it dub? Yes, MP3 output in the target language.
+- Does it work on audio-only files? Yes.
+- Who owns the video? The uploader; LinguaReel receives a limited licence to process and return it.
